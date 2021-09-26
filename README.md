@@ -19,4 +19,4 @@ A new and fixed package prefixed by `modified_` will be created at your current 
 
 ## Source
 
-[Fixing dependency manualy](https://medium.com/@kasunmaduraeng/how-to-modify-and-repack-deb-package-436f8351af41)
+[How to modify and repack deb package](https://medium.com/@kasunmaduraeng/how-to-modify-and-repack-deb-package-436f8351af41)
