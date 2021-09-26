@@ -15,7 +15,7 @@ Python 3 is needed to run script.
 python3 automate-change.py my_broken_package.deb
 ```
 
-A file prefixed by `modified_` will be created at your current working directory.`
+A file prefixed by `modified_` will be created at your current working directory.
 
 ## Source
 
